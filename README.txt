@@ -1,4 +1,4 @@
-Project N.O.M.AD
+N.O.M.A.D
 
 N.O.M.A.D stands for NXT Optimal Movement and Autonomous Drive. This project is based on a simple algorithm I created for a robotics competition in High School. The objective of this competition was to create a fully autonomous robot capable of simple decision making as it used obstacle avoidance to navigate a maze. 
 
